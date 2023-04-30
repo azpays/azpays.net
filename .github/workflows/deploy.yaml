@@ -8,10 +8,10 @@ on:
 
 env:
   BRANCH_NAME: ${{ github.head_ref || github.ref_name }}
-  RELEASE_NAME: trader4-web
-  RELEASE_NAMESPACE: trader4-web
-  RELEASE_DOMAIN: trader4.net
-  NEXT_RELEASE_DOMAIN: next.trader4.net
+  RELEASE_NAME: azpays-web
+  RELEASE_NAMESPACE: azpays-web
+  RELEASE_DOMAIN: azpays.net
+  NEXT_RELEASE_DOMAIN: next.azpays.net
 
 jobs:
   lint:

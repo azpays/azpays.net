@@ -96,7 +96,7 @@ interface IHeader {
         partOf: `<p>
           Proudly Part Of
           <a
-            href="https://Werify.net"
+            href="https://Azpays.net"
             target="_blank"
             rel="external"
             class="hover:underline font-semibold"
@@ -165,7 +165,7 @@ interface IHeader {
               { title: "API Docs", link: "/docs/api" },
               {
                 title: "Status System",
-                link: "https://status.werify.net",
+                link: "https://status.azpays.net",
                 target: "_blank",
               },
               { title: "Use Cases", link: "/use-cases" },
